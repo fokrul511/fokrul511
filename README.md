@@ -15,6 +15,11 @@
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning  <img src="https://static-00.iconduck.com/assets.00/flutter-icon-2048x2048-ufx4idi8.png" width="17" /> Flutter And <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="17" />  Dart<br>🎯 Goals:  live in a cold place ❄ and speak english 🚀<br>🎲 I love programming and play Football </p>
 
 ###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fokrul-islam-72998a249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fokrul-islam-72998a249/" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/humien.ahmad.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/humien.ahmad.9/" height="30" width="40" /></a>
+</p>
 
 <h2 align="left">I code with</h2>
 
