@@ -1,4 +1,4 @@
-![logo](https://github.com/fokrul511/fokrul511/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.png)
+//![logo](https://github.com/fokrul511/fokrul511/blob/main/Black%20Modern%20Graphic%20Designer%20LinkedIn%20Banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fokrul511&label=Profile%20views&color=0e75b6&style=flat" alt="fokrul511" /> </p>
 <h1 align="left">Hey 👋 What's up?</h1>
 
