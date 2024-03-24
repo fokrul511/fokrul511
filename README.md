@@ -16,6 +16,15 @@ I am <strong>Fokrul Islam</strong>. I'm currently working on Mobile Development.
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning  <img src="https://static-00.iconduck.com/assets.00/flutter-icon-2048x2048-ufx4idi8.png" width="17" /> Flutter And <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="17" />  Dart<br>🎯 Goals:  live in a cold place ❄ and speak english 🚀<br>🎲 I love programming and play Football </p>
 
 ###
+### Skills I have
+- Languages : Java, Dart, Python
+- Frameworks : Flutter, iOS
+- Database: MySQL, SQL Server
+- Strong knowledge in RESTful web-services/API
+- Experience with architecture design concepts and techniques and have the ability to communicate and evangelize those concepts to a board-based team 
+- Good problem solving skill 
+- Adobe XD & Figma for UI/UX
+- Proper knowledge of Github
 
 
 <h2 align="left">I code with</h2>
