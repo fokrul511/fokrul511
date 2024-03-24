@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Fokrul Islam and I'm a Flutter Developer, from <img src="https://em-content.zobj.net/source/apple/354/flag-bangladesh_1f1e7-1f1e9.png" width="17" /> Bangladesh</p>
+<p align="left">I am Fokrul Islam. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.</p>
 
 ###
 
