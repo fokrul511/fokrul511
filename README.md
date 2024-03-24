@@ -53,5 +53,7 @@ I am <strong>Fokrul Islam</strong>. I'm currently working on Mobile Development.
 </div>
 
 ###
+### Reach me at
+<br><strong>Email : </strong> islamfokrul2002@gmail.com.com<br>
 
 
