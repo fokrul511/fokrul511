@@ -4,7 +4,8 @@
 
 ###
 
-<p align="left">I am Fokrul Islam. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.</p>
+I am <strong>Fokrul Islam</strong>. I'm currently working on Mobile Development. As mobile app devleoper I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross platform native app development and I really love it.
+
 
 ###
 
