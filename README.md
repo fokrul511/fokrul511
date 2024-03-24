@@ -26,6 +26,9 @@ I am <strong>Fokrul Islam</strong>. I'm currently working on Mobile Development.
 - Adobe XD & Figma for UI/UX
 - Proper knowledge of Github
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fokrul511&show_icons=true&locale=en&layout=compact" alt="fokrul511" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fokrul511&show_icons=true&locale=en" alt="fokrul511" /></p>
 
 <h2 align="left">I code with</h2>
 
@@ -58,9 +61,6 @@ I am <strong>Fokrul Islam</strong>. I'm currently working on Mobile Development.
 </div>
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fokrul511&show_icons=true&locale=en&layout=compact" alt="fokrul511" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fokrul511&show_icons=true&locale=en" alt="fokrul511" /></p>
 ### Reach me at
 <br><strong>Email : </strong> islamfokrul2002@gmail.com<br>
 
